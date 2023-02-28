@@ -1,0 +1,9 @@
+name: RSVP List
+type: module
+description: Allows users to RSVP for Events and provides a contact list for administrators.
+version: 1.0
+core_version_requirement: ^9.5 || ^10
+package: Custom
+dependencies:
+  - drupal:block
+configure: rsvplist.admin_settings

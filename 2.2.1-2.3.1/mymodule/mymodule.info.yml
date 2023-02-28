@@ -1,0 +1,4 @@
+name: My module
+type: module
+description: 'My first Drupal module'
+core_version_requirement: ^9.5 || ^10
